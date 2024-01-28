@@ -37,7 +37,6 @@ La diferencia entre ambos modos radica en el nivel de privilegio que poseen. Cua
 | ------------------------------------ | --------- |
 |Una interrupciòn en una señal recibida por el procesador, esta señal le indica que debe interrumpir lo que està ejecutando actualmente y realizar una acciòn determinada para despuès reanudar el proceso que fue detenido. <br/>Las interrupciones son generadas por los dispositivos periféricos a travès de una lìnea ùnica denominada **IRQ** por sus siglas en inglès ***interrupt request***.<br/> Un ejemplo serìa pulsar una tecla o mover el ratòn. |Un trap es una interrupción generada por el software causada por un error o por un requerimiento de usuario. | 
 
-<img src="https://image.slideserve.com/884515/fundamentos-de-software-de-e-s3-l.jpg" alt="drawing" width="150">
 
   
 
