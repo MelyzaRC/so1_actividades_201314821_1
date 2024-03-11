@@ -3,9 +3,9 @@
 
 - Referencia
 
-<img src="images/1.png" alt="drawing" width="800">
+<img src="images/1.png" alt="drawing" width="400">
 
 - Codigo en C
 
-<img src="images/2.png" alt="drawing" width="800">
+<img src="images/2.png" alt="drawing" width="600">
 
