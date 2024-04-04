@@ -79,7 +79,7 @@ Es ejecutado cuando:
 - Un proceso agota su tiempo de ejecución.
 - Otros casos
 
-  ## Kernel de Linux
+## Kernel de Linux
   Se encuentra en el directorio de los códigos fuentes del kernel, en el
 directorio /usr/src/linux/kernel/sched/. Algunos de los archivos principales
 son:
