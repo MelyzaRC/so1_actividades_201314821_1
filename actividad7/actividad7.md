@@ -3,6 +3,7 @@
 # Completely Fair Scheduler (CFS) de Linux
 
 > **Planificador**
+> 
 > Es el componente del sistema operativo encargado de la planificación. La
 necesidad de algoritmos de planificación surgió con la aparición de sistemas
 operativos multi tareas. CFS (Completely Fair Scheduler) es el planificador de tareas predeterminado en el kernel de Linux desde la versión 2.6.23. Su objetivo principal es asignar los recursos del procesador de manera justa y equitativa entre los diferentes procesos en ejecución en el sistema.
